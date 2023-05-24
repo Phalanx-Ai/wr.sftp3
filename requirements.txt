@@ -6,4 +6,4 @@ keboola.utils
 mock
 freezegun
 backoff
-
+paramiko>=2.7.2
