@@ -1,2 +1,2 @@
-Testing functional sample extractor for purposes of the python component template. 
-Implements partial Hubspot extractor using the public sandbox token.
+This component allows you to write tables and files from storage to any SFTP repository. 
+To connect you need credentials to log in to the SFTP server.

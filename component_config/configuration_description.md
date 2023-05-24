@@ -1,1 +1,1 @@
-Testing configuration description.
+**NOTE** that when using file input mapping, only the latest files matching the specified tag will be uploaded.
